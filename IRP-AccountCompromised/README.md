@@ -1,7 +1,5 @@
 # Account Compromised Playbook
 
-[[_TOC_]]
-
 ## Scope
 This Playbook covers the steps to take when accounts are compromised.  
 Of course, we also need to remediate the hosts where those accounts were used. 
